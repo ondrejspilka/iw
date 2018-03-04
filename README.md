@@ -1,11 +1,13 @@
-IW boilerplate:
+#[Contents]
 - React
 - MaterialUI
 - Mongo store
 - Local signup/login via Passport
 
-Roadmap
+#[Roadmap]
 - MobX for data store
-- Dyanimacally loaded React components
+- Dynamically loaded React components
+- OAuth providers
 
+License: MIT for non-commercial
 
