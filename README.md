@@ -9,5 +9,4 @@
 - Dynamically loaded React components
 - OAuth providers
 
-License: MIT for non-commercial
-
+License: MIT for non-commercial...
